@@ -18,3 +18,8 @@ To use this repository for any custom YOLOv8 Object detection model, follow thes
 - Put your .tflite model and .txt labels file inside the assets folder
 - Rename paths of your model and labels file in Constants.kt file
 - Build and Run the app on Android Studio (Make sure Developer options and USB Debugging is enabled to run the app on Mobile Devices)
+
+
+
+https://github.com/PavanSai-39/Object-Detection-Android-App/assets/45734995/c54b57a6-b1e1-450c-a046-125f8bb79e22
+
