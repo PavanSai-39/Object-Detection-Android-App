@@ -1,4 +1,4 @@
-# Object_Detection-Android-App
+# Object-Detection-Android-App
 
 ## Description
 
