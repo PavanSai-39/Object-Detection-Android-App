@@ -1,0 +1,30 @@
+train: /content/drive/MyDrive/Dataset/train #path for the training images
+val: /content/drive/MyDrive/Dataset/valid #path for the validation images
+test: /content/drive/MyDrive/Dataset/test #path for the test images
+nc: 24
+names: [
+          'person',
+          'Bicycle',
+          'Bike',
+          'Car',
+          'Cyclist',
+          'Pedestrian',
+          'aeroplane',
+          'bird',
+          'boat',
+          'bottle',
+          'bus',
+          'cat',
+          'chair',
+          'cow',
+          'diningtable',
+          'dog',
+          'helmet',
+          'horse',
+          'motorbike',
+          'pottedplant',
+          'sheep',
+          'sofa',
+          'train',
+          'tvmonitor'
+      ]
